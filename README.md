@@ -7,6 +7,8 @@
 
 **Arty-U** is a dynamic web-based art gallery application built with **PHP** and **MySQL**. It features a public-facing gallery for users to explore and interact with artworks, and a secure admin panel for content management.
 
+do not open the ArtyU File in the repository, it contains nothing
+
 ---
 
 ## 📖 Table of Contents
