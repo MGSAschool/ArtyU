@@ -121,6 +121,9 @@ The system uses a relational database named **`artyu_db`**:
 4.  **Configure Connection:**
     * If your MySQL uses a password, edit `includes/db_connect.php`.
     * Default XAMPP settings (User: `root`, Pass: `[empty]`) work out of the box.
+    * Admin LogIn
+    * admin
+    * 000000
 
 ### 🔗 Access Links
 
