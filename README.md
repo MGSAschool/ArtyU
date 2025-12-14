@@ -124,6 +124,9 @@ The system uses a relational database named **`artyu_db`**:
     * Admin LogIn
     * admin
     * 000000
+  
+5. **IF GIT DOESNT WORK GO TO THIS DRIVE AND DOWNLOAD THE WHOLE FOLDER**
+   *https://drive.google.com/drive/folders/1MAsw39dxESb6guDg-2ePLBZErnCCpE0-?usp=sharing
 
 ### 🔗 Access Links
 
