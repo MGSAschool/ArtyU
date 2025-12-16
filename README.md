@@ -55,7 +55,7 @@ Arty-U is a web-based Art Gallery Management System designed to showcase digital
 
 | Name | Tasks / Role |
 | :--- | :--- |
-| **Mitzigrace Andaya** | Backend and frontend | https://drive.google.com/file/d/1Ex3GTgfkweVZVzoQUWkCsLL5HykHE78S/view?usp=sharing
+| **Mitzigrace Andaya** | Backend and frontend | 
 | **Dannaline Baloy** | UI Design/Layout and Final Report |
 | **Francis Red Villena** | Compilation of Portfolios |
 | **John Andrew Santos** | UI Design/Layout and Final Report |
@@ -133,6 +133,9 @@ The system uses a relational database named **`artyu_db`**:
 * **Public Gallery:** [http://localhost/artyu/gallery.php](http://localhost/artyu/gallery.php)
 * **Admin Panel:** [http://localhost/artyu/admin/](http://localhost/artyu/admin/)
 
+### Video presentation
+Andaya - https://drive.google.com/file/d/1Ex3GTgfkweVZVzoQUWkCsLL5HykHE78S/view?usp=sharing
+Santos - https://drive.google.com/drive/folders/1szHss9ylYYIbl9f3s6A9IKJyxoCgBWhQ
 ---
 
 ## 📜 License
