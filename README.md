@@ -134,9 +134,10 @@ The system uses a relational database named **`artyu_db`**:
 * **Admin Panel:** [http://localhost/artyu/admin/](http://localhost/artyu/admin/)
 
 ### Video presentation
+
 Andaya - https://drive.google.com/file/d/1Ex3GTgfkweVZVzoQUWkCsLL5HykHE78S/view?usp=sharing
 
-Santos - https://drive.google.com/drive/folders/1szHss9ylYYIbl9f3s6A9IKJyxoCgBWhQ
+Santos & Baloy - https://drive.google.com/drive/folders/1szHss9ylYYIbl9f3s6A9IKJyxoCgBWhQ
 ---
 
 ## 📜 License
